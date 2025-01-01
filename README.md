@@ -1,1 +1,2 @@
-changes in the feature branch
+second changes in feature branch, should create conflicts
+
