@@ -1,4 +1,4 @@
-second changes in feature branch, should create conflicts
+changes in the feature branch
 
-third changes
+some changes in the main branch
 
